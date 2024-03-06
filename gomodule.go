@@ -1,4 +1,4 @@
-package greeting
+package gomodule
 
 import (
 	"fmt"
